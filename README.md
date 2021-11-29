@@ -38,10 +38,6 @@ API_KEY
 
 
 ## CONTRIBUTERS
-* [Arun](t.me/Arun_TG)
-* [Roshan Gupta](https://github.com/rookie2410)
-* [TheAntiSnipe  (Mihir Kulkarni)](https://github.com/TheAntiSnipe)
-* [00Starlord00  (Pranav Gharat)](https://github.com/00Starlord00)
-* [ArionMiles  (Kanishk Singh)](https://github.com/ArionMiles)
-* [Funoctics  (Amey Khale)](https://github.com/funoctis)
+* [raihan](t.me/RAIHAN_TG)
+* [sabil] {t.me/sabilmommu}
 	
